@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    padding: 10px 20px;
+}
+
+.image {
+    height: 55px;
+    border-radius: 40%;
+}
+
+p {
+    margin: 0px;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 30%;
+}
+
+.avatar {
+    height: 250px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
