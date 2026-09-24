@@ -1,33 +1,19 @@
 header {
-    background-color: rgb(76, 5, 162);
-    height: 55px;
-}
-
-.sign {
     display: flex;
-    position: absolute;
-    top: 20px;
-    right: 30px;
-}
-
-.reg {
-    display: flex;
-    position: absolute;
-    top: 20px;
-    right: 100px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    padding: 10px 20px;
 }
 
 .image {
-    width: 55px;
-    margin: 0px;
-    padding: 0px;
-    border-radius: 50%;
+    height: 55px;
 }
 
-.p1 {
-    display: flex;
-    justify-content: center;
-    position: absolute;
-    top: 5px;
-    right: 960px;
+p {
+    margin: 0px;
+    text-align: center;
 }
+
+
+
